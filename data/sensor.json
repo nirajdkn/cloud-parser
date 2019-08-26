@@ -1,0 +1,61 @@
+{
+    "datas": [
+      {
+        "userId": 1,
+        "blood_glucose": {
+          "unit": "mg/dL",
+          "value": 95
+        },
+        "body_temperature": {
+          "value": 96.5,
+          "unit": "F"
+        },
+        "heart_rate": {
+          "value": 50,
+          "unit": "beats/min"
+        },
+        "ambient_temperature": {
+          "value": 75,
+          "unit": "F"
+        }
+      },
+      {
+        "userId": 2,
+        "blood_glucose": {
+          "unit": "mg/dL",
+          "value": 95
+        },
+        "body_temperature": {
+          "value": 96.5,
+          "unit": "F"
+        },
+        "heart_rate": {
+          "value": 50,
+          "unit": "beats/min"
+        },
+        "ambient_temperature": {
+          "value": 75,
+          "unit": "F"
+        }
+      },
+      {
+        "userId": 3,
+        "blood_glucose": {
+          "unit": "mg/dL",
+          "value": 95
+        },
+        "body_temperature": {
+          "value": 96.5,
+          "unit": "F"
+        },
+        "heart_rate": {
+          "value": 50,
+          "unit": "beats/min"
+        },
+        "ambient_temperature": {
+          "value": 75,
+          "unit": "F"
+        }
+      }
+    ]
+  }
